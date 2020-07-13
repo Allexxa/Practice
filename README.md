@@ -12,4 +12,7 @@ At the moment, the following commands are supported:
 * /clear - delete all plans
 * /save - save notes to file
 
-To work with this bot write command (/add, /del, /clear) and the note you need or just write command (/start, /out, /save)
+To work with this bot write command (/add, /del) and the note you need or just write command (/start, /out, /save, /clear)
+Example:
+1. /add 31.08.20 the last day of summer 2020 (add a note)
+2. /clear (delete all notes)
